@@ -1,4 +1,4 @@
-# 🏠 Kazakhstan Apartment Prices: Scraping → Analysis → Prediction
+# Kazakhstan Apartment Prices: Scraping → Analysis → Prediction
 
 An end-to-end data science project on the Kazakhstan housing market. I collected my own dataset by scraping **~3,600 apartment listings from [krisha.kz](https://krisha.kz)**, then cleaned it, explored it and trained models to predict apartment prices.
 
